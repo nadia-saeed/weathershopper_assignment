@@ -1,5 +1,5 @@
 const { Given, When, Then } = require('@wdio/cucumber-framework');
-// 
+// //
 // variables
 let websiteTitle = ''
 let productButton = ''
