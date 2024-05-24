@@ -53,7 +53,7 @@ async function clickOnButtons(productButtonLocator){
     await productButton.click();
 };
 
-// funtion 3
+// function 3
 async function getTemperature(temperatureLocator){
     temperature = await $(temperatureLocator).getText();
 };
